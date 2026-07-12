@@ -1,0 +1,11 @@
+{
+  "name": "Finatext 面试背稿",
+  "short_name": "面试背稿",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf8f2",
+  "theme_color": "#6153a6",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
